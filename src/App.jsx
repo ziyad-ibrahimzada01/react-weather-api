@@ -1,5 +1,5 @@
 import React from 'react'
-import WeatherComponent from './components/Gituser'
+import WeatherComponent from './components/WeatherApi'
 
 const App = () => {
   return (
